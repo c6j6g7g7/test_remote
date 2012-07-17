@@ -1,1 +1,6 @@
 tro archivo para el trecer branch local.
+
+
+el comando es:
+
+git push origin branch_local
